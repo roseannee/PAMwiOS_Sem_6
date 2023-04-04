@@ -1,0 +1,54 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0gz-hE-QZk"; */
+"0gz-hE-QZk.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Choose color"; ObjectID = "2K8-T5-T21"; */
+"2K8-T5-T21.title" = "Choose color";
+
+/* Class = "UIButton"; configuration.title = "Teal"; ObjectID = "3TO-r0-gLN"; */
+"3TO-r0-gLN.configuration.title" = "Teal";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "3TO-r0-gLN"; */
+"3TO-r0-gLN.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "7uh-Fe-qla"; */
+"7uh-Fe-qla.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "White"; ObjectID = "F2b-t8-OFc"; */
+"F2b-t8-OFc.configuration.title" = "White";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "F2b-t8-OFc"; */
+"F2b-t8-OFc.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Set new color"; ObjectID = "IHb-Rz-NZs"; */
+"IHb-Rz-NZs.configuration.title" = "Set new color";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "IHb-Rz-NZs"; */
+"IHb-Rz-NZs.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "The table"; ObjectID = "gg2-jS-j1W"; */
+"gg2-jS-j1W.title" = "The table";
+
+/* Class = "UIButton"; configuration.title = "Orange"; ObjectID = "j52-0g-34U"; */
+"j52-0g-34U.configuration.title" = "Orange";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "j52-0g-34U"; */
+"j52-0g-34U.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "Main Screen"; ObjectID = "llN-nX-yb8"; */
+"llN-nX-yb8.title" = "Main Screen";
+
+/* Class = "UIButton"; configuration.title = "Go to the table"; ObjectID = "ofh-oE-CRM"; */
+"ofh-oE-CRM.configuration.title" = "Go to the table";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ofh-oE-CRM"; */
+"ofh-oE-CRM.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Got it"; ObjectID = "rDc-wi-7FQ"; */
+"rDc-wi-7FQ.configuration.title" = "Got it";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "rDc-wi-7FQ"; */
+"rDc-wi-7FQ.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "Screen 2.1"; ObjectID = "xhj-yG-w5o"; */
+"xhj-yG-w5o.title" = "Screen 2.1";

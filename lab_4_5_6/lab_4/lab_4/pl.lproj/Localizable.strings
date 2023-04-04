@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  lab_4
+
+  Created by DL on 31/03/2023.
+  
+*/
+
+"CFBundleName" = "Moja aplikacja";
+"CFBundleDisplayName" = "Moja aplikacja";
+
+"apple" = "jabłko";
+"banana" = "banan";
+
+"Item Detail" = "Szczegóły";
+"You have chosen:" = "Wybrano:";
+
+"Message" = "Komunikat";
+"Good choise!" = "Świetny wybór!";
+"Go home" = "Powrót do ekranu głównego";
